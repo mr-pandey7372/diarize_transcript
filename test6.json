@@ -1,0 +1,370 @@
+[
+    {
+        "start": 0.01,
+        "end": 3.23,
+        "speaker": "SPEAKER_01",
+        "transcript": "This recording is from the British Council. Hey.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 7.88,
+        "end": 8.85,
+        "speaker": "SPEAKER_03",
+        "transcript": "How did it go? Hmm.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 9.39,
+        "end": 22.01,
+        "speaker": "SPEAKER_02",
+        "transcript": "I think it went quite well. I did a lot of research and prepared a lot. I was in there for... I don't know. Half an hour?",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 22.01,
+        "end": 24.24,
+        "speaker": "SPEAKER_03",
+        "transcript": "And? What did they say?",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 24.58,
+        "end": 34.96,
+        "speaker": "SPEAKER_02",
+        "transcript": "Nothing much. At the end, I asked them what happens now. And the woman said, we'll call you back with news in three or four days.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 34.96,
+        "end": 35.66,
+        "speaker": "SPEAKER_03",
+        "transcript": "Really? Yeah.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 36.02,
+        "end": 44.92,
+        "speaker": "SPEAKER_02",
+        "transcript": "I think I've got the job. There weren't a lot of other people there. I was the only interview that day, you",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 44.92,
+        "end": 47.52,
+        "speaker": "SPEAKER_03",
+        "transcript": "you know? Well, good luck with it.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 51.97,
+        "end": 53.51,
+        "speaker": "SPEAKER_03",
+        "transcript": "Anyway, you were saying?",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 53.51,
+        "end": 71.78,
+        "speaker": "SPEAKER_01",
+        "transcript": "Oh yeah, let's see. Yes, so I was in the museum and there were, I don't know, a hundred people waiting to get into the room. Finally, I got in and I tried to see the Mona Lisa but I couldn't look at it.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 71.78,
+        "end": 72.55,
+        "speaker": "SPEAKER_03",
+        "transcript": "Why not?",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 72.55,
+        "end": 77.02,
+        "speaker": "SPEAKER_01",
+        "transcript": "Because the room was filled with people taking photographs of it.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 77.02,
+        "end": 78.44,
+        "speaker": "SPEAKER_03",
+        "transcript": "Oh, right. Yes,",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 78.4,
+        "end": 81.49,
+        "speaker": "SPEAKER_01",
+        "transcript": "Yes, and selfies. Wait a minute.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 81.49,
+        "end": 84.19,
+        "speaker": "SPEAKER_03",
+        "transcript": "You can take photos while you're in there.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 84.31,
+        "end": 92.43,
+        "speaker": "SPEAKER_01",
+        "transcript": "Yes, but you can't use flash. I don't know. Why do we take photos of everything we see when we travel?",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 92.67,
+        "end": 95.26,
+        "speaker": "SPEAKER_03",
+        "transcript": "I know, and we never look at the photos after.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 95.98,
+        "end": 103.03,
+        "speaker": "SPEAKER_01",
+        "transcript": "Exactly. I'm tired of always taking photos. I don't feel I'm enjoying things.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 105.11,
+        "end": 105.74,
+        "speaker": "SPEAKER_03",
+        "transcript": "See.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 107.79,
+        "end": 107.98,
+        "speaker": "SPEAKER_03",
+        "transcript": "Who took",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 107.98,
+        "end": 110.64,
+        "speaker": "SPEAKER_00",
+        "transcript": "took this? I can't remember. What",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 112.99,
+        "end": 114.48,
+        "speaker": "SPEAKER_00",
+        "transcript": "am I doing?",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 115.21,
+        "end": 120.96,
+        "speaker": "SPEAKER_00",
+        "transcript": "You're sitting on the sofa watching TV and eating chocolates. Nothing changes.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 121.1,
+        "end": 124.22,
+        "speaker": "SPEAKER_03",
+        "transcript": "Very funny. You look very young, though.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 125.15,
+        "end": 128.49,
+        "speaker": "SPEAKER_00",
+        "transcript": "I know. Look at my hair. It was so long.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 128.58,
+        "end": 134.33,
+        "speaker": "SPEAKER_03",
+        "transcript": "Mine too. Look at me. Hey, I think I know who took this photo.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 134.94,
+        "end": 137.91,
+        "speaker": "SPEAKER_00",
+        "transcript": "Who? Was it Dad?",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 138.15,
+        "end": 159.0,
+        "speaker": "SPEAKER_03",
+        "transcript": "No, it wasn't Dad or Mum. Do you remember Barry? No. Yes, yes, you do remember. Barry, your boyfriend at high school? You were and he was and he was so very polite. Hello, I'm Barry. It's very nice to meet you.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 159.0,
+        "end": 161.61,
+        "speaker": "SPEAKER_00",
+        "transcript": "Stop it, he was nice.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 161.61,
+        "end": 164.77,
+        "speaker": "SPEAKER_03",
+        "transcript": "Yeah, well, he took the photo.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 166.78,
+        "end": 167.21,
+        "speaker": "SPEAKER_03",
+        "transcript": "D.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 169.24,
+        "end": 176.37,
+        "speaker": "SPEAKER_02",
+        "transcript": "Let's see. Okay. I'm glad we could talk about this. It's not easy to say.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 176.99,
+        "end": 177.52,
+        "speaker": "SPEAKER_02",
+        "transcript": "What?",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 177.01,
+        "end": 177.45,
+        "speaker": "SPEAKER_00",
+        "transcript": "What?",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 178.15,
+        "end": 178.73,
+        "speaker": "SPEAKER_02",
+        "transcript": "Well,",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 179.91,
+        "end": 184.04,
+        "speaker": "SPEAKER_02",
+        "transcript": "you're not in our group for the class project.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 184.51,
+        "end": 188.51,
+        "speaker": "SPEAKER_00",
+        "transcript": "What do you mean? You know I'm always in a group with you.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 188.95,
+        "end": 198.2,
+        "speaker": "SPEAKER_02",
+        "transcript": "I know, it's just that this time, this time we made the group differently and because you were late.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 198.2,
+        "end": 200.62,
+        "speaker": "SPEAKER_00",
+        "transcript": "I see. You don't want me in the group?",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 201.0,
+        "end": 209.77,
+        "speaker": "SPEAKER_02",
+        "transcript": "No, no. It isn't that. It's that we've already made the group, see? There's four of us already.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 210.01,
+        "end": 212.52,
+        "speaker": "SPEAKER_00",
+        "transcript": "So, we can't be a group of five?",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 213.03,
+        "end": 216.83,
+        "speaker": "SPEAKER_02",
+        "transcript": "Well, the teacher said four people per group.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 218.59,
+        "end": 227.64,
+        "speaker": "SPEAKER_02",
+        "transcript": "It's not about you or your work or anything like that. It's, uh, well, we already have the group.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 228.15,
+        "end": 230.49,
+        "speaker": "SPEAKER_00",
+        "transcript": "So I have to find another group.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 230.91,
+        "end": 231.94,
+        "speaker": "SPEAKER_02",
+        "transcript": "I'm sorry.",
+        "sentiment": null,
+        "ser": null
+    },
+    {
+        "start": 235.69,
+        "end": 249.8,
+        "speaker": "SPEAKER_01",
+        "transcript": "This recording is from the British Council. To find more activities to practice your English, visit www.britishcouncil.org forward slash Learn English",
+        "sentiment": null,
+        "ser": null
+    }
+]
